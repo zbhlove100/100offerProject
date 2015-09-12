@@ -1,0 +1,49 @@
+{
+	"__v": 5,
+	"_id": {
+		"$oid": "55842a50a182a2e723cff6b3"
+	},
+	"active": true,
+	"books": [
+		{
+			"$oid": "5576d7b7c3f81d29342a0b8f"
+		},
+		{
+			"$oid": "5576d7cdc3f81d29342a0c5c"
+		},
+		{
+			"$oid": "5576d7d5c3f81d29342a0ca8"
+		},
+		{
+			"$oid": "5576d7dac3f81d29342a0ce0"
+		},
+		{
+			"$oid": "5576d88cc3f81d29342a1368"
+		},
+		{
+			"$oid": "5576d891c3f81d29342a1392"
+		},
+		{
+			"$oid": "5576d897c3f81d29342a13cb"
+		},
+		{
+			"$oid": "5576d89bc3f81d29342a13f5"
+		},
+		{
+			"$oid": "5576d8b8c3f81d29342a1502"
+		},
+		{
+			"$oid": "5576d8bcc3f81d29342a1530"
+		},
+		{
+			"$oid": "5576d8c1c3f81d29342a155b"
+		}
+	],
+	"description": "LOLI什么的最有爱了啊！",
+	"emontion": [
+		"小萝莉"
+	],
+	"mainimage": "http://shudanphoto.oss-cn-beijing.aliyuncs.com/luoli.jpg",
+	"name": "萝莉！萝莉！全是萝莉！！！",
+	"shudanimages": []
+}

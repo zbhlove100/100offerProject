@@ -1,0 +1,150 @@
+{
+	"__v": 0,
+	"_id": {
+		"$oid": "5577040315c8ba160d7d4eb2"
+	},
+	"cate_code": "1400",
+	"description": "现代言情 古代言情 女强玄幻",
+	"mysql_id": "1",
+	"name": "女生"
+}
+{
+	"__v": 0,
+	"_id": {
+		"$oid": "5577040315c8ba160d7d4eb3"
+	},
+	"cate_code": "100",
+	"description": "东方玄幻 异界征战 异界大陆",
+	"mysql_id": "2",
+	"name": "玄幻"
+}
+{
+	"__v": 0,
+	"_id": {
+		"$oid": "5577040315c8ba160d7d4eb4"
+	},
+	"cate_code": "500",
+	"description": "架空历史 中国历史 外国历史",
+	"mysql_id": "3",
+	"name": "历史"
+}
+{
+	"__v": 0,
+	"_id": {
+		"$oid": "5577040315c8ba160d7d4eb5"
+	},
+	"cate_code": "600",
+	"description": "军事战争 战争幻想 军旅生活",
+	"mysql_id": "4",
+	"name": "军事"
+}
+{
+	"__v": 0,
+	"_id": {
+		"$oid": "5577040315c8ba160d7d4eb6"
+	},
+	"cate_code": "700",
+	"description": "都市生活 官场沉浮 爱情婚姻",
+	"mysql_id": "5",
+	"name": "都市"
+}
+{
+	"__v": 0,
+	"_id": {
+		"$oid": "5577040315c8ba160d7d4eb7"
+	},
+	"cate_code": "200",
+	"description": "西方奇幻 魔法校园 异类兽族",
+	"mysql_id": "6",
+	"name": "奇幻"
+}
+{
+	"__v": 0,
+	"_id": {
+		"$oid": "5577040415c8ba160d7d4eb8"
+	},
+	"cate_code": "300",
+	"description": "传统武侠 浪子异侠 国术武技",
+	"mysql_id": "7",
+	"name": "武侠"
+}
+{
+	"__v": 0,
+	"_id": {
+		"$oid": "5577040415c8ba160d7d4eb9"
+	},
+	"cate_code": "400",
+	"description": "古典仙侠 现代修真 洪荒封神",
+	"mysql_id": "8",
+	"name": "仙侠"
+}
+{
+	"__v": 0,
+	"_id": {
+		"$oid": "5577040415c8ba160d7d4eba"
+	},
+	"cate_code": "800",
+	"description": "青春校园 校园异能",
+	"mysql_id": "9",
+	"name": "青春"
+}
+{
+	"__v": 0,
+	"_id": {
+		"$oid": "5577040415c8ba160d7d4ebb"
+	},
+	"cate_code": "900",
+	"description": "电子竞技 虚拟网游 游戏生涯",
+	"mysql_id": "10",
+	"name": "游戏"
+}
+{
+	"__v": 0,
+	"_id": {
+		"$oid": "5577040415c8ba160d7d4ebc"
+	},
+	"cate_code": "1000",
+	"description": "体育竞技 球类运动 弈林生涯",
+	"mysql_id": "11",
+	"name": "竞技"
+}
+{
+	"__v": 0,
+	"_id": {
+		"$oid": "5577040415c8ba160d7d4ebd"
+	},
+	"cate_code": "1100",
+	"description": "未来世界 末世危机 时空穿梭",
+	"mysql_id": "12",
+	"name": "科幻"
+}
+{
+	"__v": 0,
+	"_id": {
+		"$oid": "5577040415c8ba160d7d4ebe"
+	},
+	"cate_code": "1200",
+	"description": "灵异奇谈 悬疑探险 推理侦探",
+	"mysql_id": "13",
+	"name": "灵异"
+}
+{
+	"__v": 0,
+	"_id": {
+		"$oid": "5577040415c8ba160d7d4ebf"
+	},
+	"cate_code": "1300",
+	"description": "动漫同人 小说同人 影视同人",
+	"mysql_id": "14",
+	"name": "同人"
+}
+{
+	"__v": 0,
+	"_id": {
+		"$oid": "5577040415c8ba160d7d4ec0"
+	},
+	"cate_code": "0",
+	"description": "美文 文学 剧本",
+	"mysql_id": "15",
+	"name": "其他"
+}

@@ -1,0 +1,1802 @@
+{
+	"__v": 1,
+	"_id": {
+		"$oid": "5576e29d0c13d097585943b1"
+	},
+	"book_id": {
+		"$oid": "5576da3dc3f81d29342a2307"
+	},
+	"catalog": [
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943b3"
+			},
+			"catalog_i": 1,
+			"catalog_n": "第一章 军区大院"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943b4"
+			},
+			"catalog_i": 2,
+			"catalog_n": "第二章 特警精英"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943b5"
+			},
+			"catalog_i": 3,
+			"catalog_n": "第三章 大展雄威(一)"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943b6"
+			},
+			"catalog_i": 4,
+			"catalog_n": "第四章 大展雄威(二)"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943b7"
+			},
+			"catalog_i": 5,
+			"catalog_n": "第五章 总结大会"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943b8"
+			},
+			"catalog_i": 6,
+			"catalog_n": "第六章 魔鬼训练(一)"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943b9"
+			},
+			"catalog_i": 7,
+			"catalog_n": "第七章 魔鬼训练(二)"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943ba"
+			},
+			"catalog_i": 8,
+			"catalog_n": "第八章 品茶茶经"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943bb"
+			},
+			"catalog_i": 9,
+			"catalog_n": "第九章  风流种子"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943bc"
+			},
+			"catalog_i": 10,
+			"catalog_n": "第十章 蹦迪场上"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943bd"
+			},
+			"catalog_i": 11,
+			"catalog_n": "第十一章 枪无虚发"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943be"
+			},
+			"catalog_i": 12,
+			"catalog_n": "第十二章 战友相惜"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943bf"
+			},
+			"catalog_i": 13,
+			"catalog_n": "第十三章 初尝温柔"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943c0"
+			},
+			"catalog_i": 15,
+			"catalog_n": "第十五章 北上风云（二）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943c1"
+			},
+			"catalog_i": 16,
+			"catalog_n": "第十六章 朋友相聚(一）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943c2"
+			},
+			"catalog_i": 17,
+			"catalog_n": "第十七章 校园风云（一）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943c3"
+			},
+			"catalog_i": 18,
+			"catalog_n": "第十八章 校园风云（二）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943c4"
+			},
+			"catalog_i": 19,
+			"catalog_n": "第十九章 校园风云（三）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943c5"
+			},
+			"catalog_i": 20,
+			"catalog_n": "第二十章 会见导师"
+		},
+		{
+			"_id": {
+				"$oid": "5576e29d0c13d097585943c6"
+			},
+			"catalog_i": 14,
+			"catalog_n": "第十四章 北上风云（一）"
+		}
+	],
+	"kuaidu_id": "1028806",
+	"mysql_id": "14903"
+}
+{
+	"__v": 1,
+	"_id": {
+		"$oid": "5576e2a30c13d09758599acc"
+	},
+	"book_id": {
+		"$oid": "5576da40c3f81d29342a2324"
+	},
+	"catalog": [
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ace"
+			},
+			"catalog_i": 1,
+			"catalog_n": "射击移动中的目标"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599acf"
+			},
+			"catalog_i": 2,
+			"catalog_n": "狙击手排行榜"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ad0"
+			},
+			"catalog_i": 3,
+			"catalog_n": "狙击手的一些基本知识"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ad1"
+			},
+			"catalog_i": 4,
+			"catalog_n": "中国狙击手训练教程"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ad2"
+			},
+			"catalog_i": 5,
+			"catalog_n": "狙击手的电影与现实"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ad3"
+			},
+			"catalog_i": 6,
+			"catalog_n": "二战德军狙击手"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ad4"
+			},
+			"catalog_i": 7,
+			"catalog_n": "狙击手调镜教学（我也看不懂！）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ad5"
+			},
+			"catalog_i": 8,
+			"catalog_n": "狙击手四大做战方针"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ad6"
+			},
+			"catalog_i": 9,
+			"catalog_n": "美军狙击手装备表"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ad7"
+			},
+			"catalog_i": 10,
+			"catalog_n": "狙击教学"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ad8"
+			},
+			"catalog_i": 11,
+			"catalog_n": "中国狙击第一人——张桃芳"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ad9"
+			},
+			"catalog_i": 12,
+			"catalog_n": "俄罗斯狙击手"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ada"
+			},
+			"catalog_i": 14,
+			"catalog_n": "伊拉克狙击手——朱巴"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599adb"
+			},
+			"catalog_i": 15,
+			"catalog_n": "二战苏联女狙击手"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599adc"
+			},
+			"catalog_i": 16,
+			"catalog_n": "第一节 天外来客"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599add"
+			},
+			"catalog_i": 17,
+			"catalog_n": "第二节 重拳出击砸幽灵"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ade"
+			},
+			"catalog_i": 18,
+			"catalog_n": "第三节 出奇的顺利"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599adf"
+			},
+			"catalog_i": 19,
+			"catalog_n": "第四节 狙击手以一敌十"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ae0"
+			},
+			"catalog_i": 20,
+			"catalog_n": "第五节 危险的试验"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ae1"
+			},
+			"catalog_i": 13,
+			"catalog_n": "格罗兹尼狙击手"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ae2"
+			},
+			"catalog_i": 21,
+			"catalog_n": "第六节 奇特的伏击"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ae3"
+			},
+			"catalog_i": 22,
+			"catalog_n": "第七节 雨林大混战"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ae4"
+			},
+			"catalog_i": 23,
+			"catalog_n": "第八节 烈炎的怒火（上）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ae5"
+			},
+			"catalog_i": 25,
+			"catalog_n": "第十节 甘尼最后的杀手锏（上）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ae6"
+			},
+			"catalog_i": 26,
+			"catalog_n": "第十一节 甘尼最后的杀手锏（中）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ae7"
+			},
+			"catalog_i": 27,
+			"catalog_n": "第十二节 甘尼最后的杀手锏（下） ]"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ae8"
+			},
+			"catalog_i": 28,
+			"catalog_n": "第十三节 难以置信的怪物"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599ae9"
+			},
+			"catalog_i": 29,
+			"catalog_n": "第十四节 被活捉的阿龙"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599aea"
+			},
+			"catalog_i": 30,
+			"catalog_n": "第十五节 柳暗花明又一村（上）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599aeb"
+			},
+			"catalog_i": 24,
+			"catalog_n": "第九节 烈炎的怒火（下）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599aec"
+			},
+			"catalog_i": 31,
+			"catalog_n": "第十六节 柳暗花明又一村（下）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599aed"
+			},
+			"catalog_i": 32,
+			"catalog_n": "第十七节 惊心动魄10分钟（上）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599aee"
+			},
+			"catalog_i": 34,
+			"catalog_n": "第十九节 惊心动魄10分钟（下）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599aef"
+			},
+			"catalog_i": 35,
+			"catalog_n": "第二十节 恐怖的血蜘蛛（上）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599af0"
+			},
+			"catalog_i": 36,
+			"catalog_n": "第二十一节 恐怖的血蜘蛛（中）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599af1"
+			},
+			"catalog_i": 37,
+			"catalog_n": "第二十一节 恐怖的血蜘蛛（下）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599af2"
+			},
+			"catalog_i": 38,
+			"catalog_n": "第二十三节 劫囚"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599af3"
+			},
+			"catalog_i": 39,
+			"catalog_n": "第二十四节 S级通缉令"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599af4"
+			},
+			"catalog_i": 33,
+			"catalog_n": "第十八节 惊心动魄10分钟（中）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599af5"
+			},
+			"catalog_i": 40,
+			"catalog_n": "第二十五节 黑帮大火并"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599af6"
+			},
+			"catalog_i": 41,
+			"catalog_n": "第二十六节 巧救美女"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599af7"
+			},
+			"catalog_i": 42,
+			"catalog_n": "第二十七节 混乱的前兆"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599af8"
+			},
+			"catalog_i": 43,
+			"catalog_n": "第二十七节 无妄之灾"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599af9"
+			},
+			"catalog_i": 44,
+			"catalog_n": "第二十九节 神秘的来客"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599afa"
+			},
+			"catalog_i": 45,
+			"catalog_n": "第三十节 神秘的怪人"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599afb"
+			},
+			"catalog_i": 46,
+			"catalog_n": "第三十一节 十二生肖(上)"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599afc"
+			},
+			"catalog_i": 47,
+			"catalog_n": "第三十二节 十二生肖(下)"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599afd"
+			},
+			"catalog_i": 48,
+			"catalog_n": "第三十三节 圈套?"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599afe"
+			},
+			"catalog_i": 49,
+			"catalog_n": "第三十四节 越狱(上)"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599aff"
+			},
+			"catalog_i": 50,
+			"catalog_n": "第三十五 越狱(下)"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599b00"
+			},
+			"catalog_i": 51,
+			"catalog_n": "观《弹痕》有感"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599b01"
+			},
+			"catalog_i": 52,
+			"catalog_n": "公告"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599b02"
+			},
+			"catalog_i": 54,
+			"catalog_n": "中国军魂"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a30c13d09758599b03"
+			},
+			"catalog_i": 53,
+			"catalog_n": "中国军魂"
+		}
+	],
+	"kuaidu_id": "1025004",
+	"mysql_id": "14932"
+}
+{
+	"__v": 1,
+	"_id": {
+		"$oid": "5576e2a40c13d09758599fd5"
+	},
+	"book_id": {
+		"$oid": "5576da40c3f81d29342a2328"
+	},
+	"catalog": [
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fd7"
+			},
+			"catalog_i": 1,
+			"catalog_n": "美国ＳＰＩＷ箭弹枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fd8"
+			},
+			"catalog_i": 2,
+			"catalog_n": "Clandestine12"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fd9"
+			},
+			"catalog_i": 3,
+			"catalog_n": "美国伊萨卡斯塔考特霰弹枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fda"
+			},
+			"catalog_i": 4,
+			"catalog_n": "自来得手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fdb"
+			},
+			"catalog_i": 5,
+			"catalog_n": "CZ 52"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fdc"
+			},
+			"catalog_i": 6,
+			"catalog_n": "CZ-85"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fdd"
+			},
+			"catalog_i": 7,
+			"catalog_n": "QSZ92式手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fde"
+			},
+			"catalog_i": 8,
+			"catalog_n": "224型9毫米手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fdf"
+			},
+			"catalog_i": 9,
+			"catalog_n": "前苏联SPP-1M 水中手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fe0"
+			},
+			"catalog_i": 10,
+			"catalog_n": "史密斯-韦森CS9/CS45手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fe1"
+			},
+			"catalog_i": 11,
+			"catalog_n": "最优秀的西格手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fe2"
+			},
+			"catalog_i": 12,
+			"catalog_n": "格洛克18"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fe3"
+			},
+			"catalog_i": 14,
+			"catalog_n": "史密斯韦森1076式10mm手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fe4"
+			},
+			"catalog_i": 15,
+			"catalog_n": "沙漠之鹰"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fe5"
+			},
+			"catalog_i": 16,
+			"catalog_n": "勃郎宁手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fe6"
+			},
+			"catalog_i": 17,
+			"catalog_n": "P38 手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fe7"
+			},
+			"catalog_i": 18,
+			"catalog_n": "毛瑟半自动手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fe8"
+			},
+			"catalog_i": 19,
+			"catalog_n": "FN生产的勃朗宁手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fe9"
+			},
+			"catalog_i": 13,
+			"catalog_n": "德国沃尔特P38手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fea"
+			},
+			"catalog_i": 20,
+			"catalog_n": "KF-9-AMP突击冲锋手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599feb"
+			},
+			"catalog_i": 21,
+			"catalog_n": "中国7.62毫米80式自动手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fec"
+			},
+			"catalog_i": 22,
+			"catalog_n": "史密斯-韦森1076式"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fed"
+			},
+			"catalog_i": 24,
+			"catalog_n": "卡利科M-100P式手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fee"
+			},
+			"catalog_i": 25,
+			"catalog_n": "GLOCK 17"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fef"
+			},
+			"catalog_i": 26,
+			"catalog_n": "手球型手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599ff0"
+			},
+			"catalog_i": 27,
+			"catalog_n": "美国雷明顿M1858转轮手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599ff1"
+			},
+			"catalog_i": 28,
+			"catalog_n": "柯尔特鹰式9mm手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599ff2"
+			},
+			"catalog_i": 29,
+			"catalog_n": "瓦尔特公司的P99手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599ff3"
+			},
+			"catalog_i": 23,
+			"catalog_n": "M15式11.43mm将官手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599ff4"
+			},
+			"catalog_i": 30,
+			"catalog_n": "斯捷奇金冲锋手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599ff5"
+			},
+			"catalog_i": 31,
+			"catalog_n": "二战英军左轮手枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599ff6"
+			},
+			"catalog_i": 32,
+			"catalog_n": "美国M219式7.62mm机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599ff7"
+			},
+			"catalog_i": 34,
+			"catalog_n": "马克 I 型重机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599ff8"
+			},
+			"catalog_i": 35,
+			"catalog_n": "MG43 通用机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599ff9"
+			},
+			"catalog_i": 36,
+			"catalog_n": "QJY88式通用机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599ffa"
+			},
+			"catalog_i": 37,
+			"catalog_n": "以色列加利尔轻机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599ffb"
+			},
+			"catalog_i": 38,
+			"catalog_n": "QJZ89式12.7毫米机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599ffc"
+			},
+			"catalog_i": 39,
+			"catalog_n": "57式重机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599ffd"
+			},
+			"catalog_i": 33,
+			"catalog_n": "布朗式轻机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599ffe"
+			},
+			"catalog_i": 40,
+			"catalog_n": "勃朗宁M2HB式大口径机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d09758599fff"
+			},
+			"catalog_i": 41,
+			"catalog_n": "勃朗宁M1917A1式机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a000"
+			},
+			"catalog_i": 42,
+			"catalog_n": "美国M85式装甲战车机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a001"
+			},
+			"catalog_i": 43,
+			"catalog_n": "M73式7.62mm坦克机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a002"
+			},
+			"catalog_i": 45,
+			"catalog_n": "阿雷斯7.62mm外动力机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a003"
+			},
+			"catalog_i": 46,
+			"catalog_n": "EX-34式7.62mm链式机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a004"
+			},
+			"catalog_i": 47,
+			"catalog_n": "“米尼岗”M134型速射机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a005"
+			},
+			"catalog_i": 48,
+			"catalog_n": "55式坦克机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a006"
+			},
+			"catalog_i": 49,
+			"catalog_n": "54式高射机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a007"
+			},
+			"catalog_i": 50,
+			"catalog_n": "77式高射机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a008"
+			},
+			"catalog_i": 44,
+			"catalog_n": "美国阿雷斯5.56mm轻机枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a009"
+			},
+			"catalog_i": 51,
+			"catalog_n": "三八式步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a00a"
+			},
+			"catalog_i": 52,
+			"catalog_n": "七七式步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a00b"
+			},
+			"catalog_i": 53,
+			"catalog_n": "中正式步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a00c"
+			},
+			"catalog_i": 55,
+			"catalog_n": "五六式半自动步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a00d"
+			},
+			"catalog_i": 56,
+			"catalog_n": "二式步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a00e"
+			},
+			"catalog_i": 57,
+			"catalog_n": "前苏联制AK-47"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a00f"
+			},
+			"catalog_i": 58,
+			"catalog_n": "M1 步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a010"
+			},
+			"catalog_i": 59,
+			"catalog_n": "M1 卡宾枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a011"
+			},
+			"catalog_i": 54,
+			"catalog_n": "汉式(汉阳造)步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a012"
+			},
+			"catalog_i": 60,
+			"catalog_n": "斯普林菲尔德M1903步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a013"
+			},
+			"catalog_i": 61,
+			"catalog_n": "MAK-90运动步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a014"
+			},
+			"catalog_i": 62,
+			"catalog_n": "北方工业AK"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a015"
+			},
+			"catalog_i": 63,
+			"catalog_n": "毛瑟 1898式步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a016"
+			},
+			"catalog_i": 64,
+			"catalog_n": "86式自动步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a017"
+			},
+			"catalog_i": 66,
+			"catalog_n": "美国鲁格AC-556F 式选射步"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a018"
+			},
+			"catalog_i": 67,
+			"catalog_n": "斯太尔Scout旋转后拉步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a019"
+			},
+			"catalog_i": 68,
+			"catalog_n": "美国鲁格Mini-14式步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a01a"
+			},
+			"catalog_i": 69,
+			"catalog_n": "XM-15半自动步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a01b"
+			},
+			"catalog_i": 65,
+			"catalog_n": "美国柯尔特先进战斗步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a01c"
+			},
+			"catalog_i": 70,
+			"catalog_n": "美国M16系列5.56mm步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a01d"
+			},
+			"catalog_i": 71,
+			"catalog_n": "G11 无壳弹步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a01e"
+			},
+			"catalog_i": 72,
+			"catalog_n": "F2000模块化突击武器"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a01f"
+			},
+			"catalog_i": 73,
+			"catalog_n": "奥地利VEC91型无壳弹步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a020"
+			},
+			"catalog_i": 75,
+			"catalog_n": "美国M3微声冲锋枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a021"
+			},
+			"catalog_i": 76,
+			"catalog_n": "英国9mm四太令L2A3冲锋枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a022"
+			},
+			"catalog_i": 77,
+			"catalog_n": "意大利贝雷塔12型9毫米冲锋枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a023"
+			},
+			"catalog_i": 78,
+			"catalog_n": "德国MP5SD型冲锋枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a024"
+			},
+			"catalog_i": 79,
+			"catalog_n": "前苏联PPSh41冲锋枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a025"
+			},
+			"catalog_i": 74,
+			"catalog_n": "莫辛-纳甘步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a026"
+			},
+			"catalog_i": 80,
+			"catalog_n": "Model 635冲锋枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a027"
+			},
+			"catalog_i": 81,
+			"catalog_n": "MP40冲锋枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a028"
+			},
+			"catalog_i": 82,
+			"catalog_n": "MP2000 冲锋枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a029"
+			},
+			"catalog_i": 84,
+			"catalog_n": "82式微型冲锋枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a02a"
+			},
+			"catalog_i": 85,
+			"catalog_n": "国产新型9毫米冲锋枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a02b"
+			},
+			"catalog_i": 86,
+			"catalog_n": "85式7.62毫米微声冲锋枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a02c"
+			},
+			"catalog_i": 87,
+			"catalog_n": "阿雷斯FMG9mm冲锋枪二代样枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a02d"
+			},
+			"catalog_i": 88,
+			"catalog_n": "Model 635冲锋枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a02e"
+			},
+			"catalog_i": 89,
+			"catalog_n": "美国M21式7.62mm狙击步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a02f"
+			},
+			"catalog_i": 83,
+			"catalog_n": "1956年式冲锋枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a030"
+			},
+			"catalog_i": 90,
+			"catalog_n": "XM25/M25 狙击步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a031"
+			},
+			"catalog_i": 91,
+			"catalog_n": "DragonovSVD狙击步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a032"
+			},
+			"catalog_i": 92,
+			"catalog_n": "79式狙击步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a033"
+			},
+			"catalog_i": 93,
+			"catalog_n": "麦克米伦Ｍ87式狙击步枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a034"
+			},
+			"catalog_i": 95,
+			"catalog_n": "前苏联PPSh41冲锋枪"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a40c13d0975859a035"
+			},
+			"catalog_i": 94,
+			"catalog_n": "RSG-12式狙击步(猎)枪"
+		}
+	],
+	"kuaidu_id": "1033216",
+	"mysql_id": "14936"
+}
+{
+	"__v": 1,
+	"_id": {
+		"$oid": "5576e2a80c13d0975859cf19"
+	},
+	"book_id": {
+		"$oid": "5576da43c3f81d29342a233e"
+	},
+	"catalog": [
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf1b"
+			},
+			"catalog_i": 1,
+			"catalog_n": "前言"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf1c"
+			},
+			"catalog_i": 2,
+			"catalog_n": "第一章 与杀手交易"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf1d"
+			},
+			"catalog_i": 3,
+			"catalog_n": "第二章 一个杀手的玩笑？"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf1e"
+			},
+			"catalog_i": 4,
+			"catalog_n": "第三章 意外变故"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf1f"
+			},
+			"catalog_i": 5,
+			"catalog_n": "第四章 不愉快的童年"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf20"
+			},
+			"catalog_i": 6,
+			"catalog_n": "第五章 睁眼说瞎话"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf21"
+			},
+			"catalog_i": 7,
+			"catalog_n": "第六章 决定和调查"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf22"
+			},
+			"catalog_i": 8,
+			"catalog_n": "第七章 越来越有趣"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf23"
+			},
+			"catalog_i": 9,
+			"catalog_n": "第八章 勾心斗角"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf24"
+			},
+			"catalog_i": 10,
+			"catalog_n": "第九章 浑水摸鱼"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf25"
+			},
+			"catalog_i": 11,
+			"catalog_n": "第十章 犹太商人爱莫尔"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf26"
+			},
+			"catalog_i": 12,
+			"catalog_n": "第十一章 六千支军火"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf27"
+			},
+			"catalog_i": 14,
+			"catalog_n": "第十三章 陌生来客"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf28"
+			},
+			"catalog_i": 15,
+			"catalog_n": "第十四章 突发事件"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf29"
+			},
+			"catalog_i": 16,
+			"catalog_n": "第十五章 阴谋收网"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf2a"
+			},
+			"catalog_i": 17,
+			"catalog_n": "第十六章 世界就是舞台"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf2b"
+			},
+			"catalog_i": 18,
+			"catalog_n": "第十七章 苏联裁军"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf2c"
+			},
+			"catalog_i": 19,
+			"catalog_n": "第十八章 初入东德"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf2d"
+			},
+			"catalog_i": 20,
+			"catalog_n": "第十九章 受阻受挫"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf2e"
+			},
+			"catalog_i": 13,
+			"catalog_n": "第十二章 太阴毒了！"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf2f"
+			},
+			"catalog_i": 21,
+			"catalog_n": "第二十章 苏军德累斯顿基地"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf30"
+			},
+			"catalog_i": 22,
+			"catalog_n": "第二十一章 克格勃的邀请"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf31"
+			},
+			"catalog_i": 23,
+			"catalog_n": "第二十二章 弗拉基米尔-普京"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf32"
+			},
+			"catalog_i": 24,
+			"catalog_n": "第二十三章 生意转机"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf33"
+			},
+			"catalog_i": 25,
+			"catalog_n": "第二十四章 一千克一卢布"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf34"
+			},
+			"catalog_i": 26,
+			"catalog_n": "第二十五章 解决两个问题"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf35"
+			},
+			"catalog_i": 27,
+			"catalog_n": "第二十六章 超级暴利！"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf36"
+			},
+			"catalog_i": 28,
+			"catalog_n": "第二十七章 黎巴嫩真主党"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf37"
+			},
+			"catalog_i": 29,
+			"catalog_n": "第二十八章 一拍即合"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf38"
+			},
+			"catalog_i": 30,
+			"catalog_n": "第二十九章 中国幽兰"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf39"
+			},
+			"catalog_i": 31,
+			"catalog_n": "第三十章 中国的军火贸易（上）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf3a"
+			},
+			"catalog_i": 32,
+			"catalog_n": "第三十一章 中国的军火贸易（下）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf3b"
+			},
+			"catalog_i": 34,
+			"catalog_n": "第三十三章 巴勒斯坦解放组织（下）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf3c"
+			},
+			"catalog_i": 35,
+			"catalog_n": "第三十四章 哈马斯诞生之前（上）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf3d"
+			},
+			"catalog_i": 36,
+			"catalog_n": "第三十五章 哈马斯诞生之前（中）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf3e"
+			},
+			"catalog_i": 37,
+			"catalog_n": "第三十六章 哈马斯诞生之前（下）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf3f"
+			},
+			"catalog_i": 38,
+			"catalog_n": "第三十七章 潘多拉的魔盒（一）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf40"
+			},
+			"catalog_i": 39,
+			"catalog_n": "第三十八章 潘多拉的魔盒（二）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf41"
+			},
+			"catalog_i": 33,
+			"catalog_n": "第三十二章 巴勒斯坦解放组织（上）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf42"
+			},
+			"catalog_i": 40,
+			"catalog_n": "第三十九章 潘多拉的魔盒（三）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf43"
+			},
+			"catalog_i": 41,
+			"catalog_n": "第四十章 潘多拉的魔盒（四）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf44"
+			},
+			"catalog_i": 43,
+			"catalog_n": "第四十二章 潘多拉的魔盒（六）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf45"
+			},
+			"catalog_i": 44,
+			"catalog_n": "第四十三章 潘多拉的魔盒（七）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf46"
+			},
+			"catalog_i": 45,
+			"catalog_n": "第四十四章 潘多拉的魔盒（八）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf47"
+			},
+			"catalog_i": 46,
+			"catalog_n": "第四十五章 100万倍的利润！"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf48"
+			},
+			"catalog_i": 47,
+			"catalog_n": "第四十六章 约旦王室晚宴（上）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf49"
+			},
+			"catalog_i": 48,
+			"catalog_n": "第四十七章 约旦王室晚宴（下）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf4a"
+			},
+			"catalog_i": 49,
+			"catalog_n": "第四十八章 失踪的轰6D和黑鹰（上）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf4b"
+			},
+			"catalog_i": 42,
+			"catalog_n": "第四十一章 潘多拉的魔盒（五）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf4c"
+			},
+			"catalog_i": 50,
+			"catalog_n": "第四十九章 失踪的轰6D和黑鹰（下）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf4d"
+			},
+			"catalog_i": 51,
+			"catalog_n": "第五十章 结识"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf4e"
+			},
+			"catalog_i": 52,
+			"catalog_n": "第五十一章 埃里克公司的三笔投资"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf4f"
+			},
+			"catalog_i": 54,
+			"catalog_n": "第五十三章 玩具泄密事件（上）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf50"
+			},
+			"catalog_i": 55,
+			"catalog_n": "第五十四章 玩具泄密事件（下）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf51"
+			},
+			"catalog_i": 56,
+			"catalog_n": "第五十五章 收购洛克希德股票"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf52"
+			},
+			"catalog_i": 57,
+			"catalog_n": "第五十六章 家族聚会（上）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf53"
+			},
+			"catalog_i": 58,
+			"catalog_n": "第五十七章 家族聚会（中）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf54"
+			},
+			"catalog_i": 59,
+			"catalog_n": "第五十八章 家族聚会（下）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf55"
+			},
+			"catalog_i": 53,
+			"catalog_n": "第五十二章 美国空袭利比亚"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf56"
+			},
+			"catalog_i": 60,
+			"catalog_n": "第五十九章 加入共和党"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf57"
+			},
+			"catalog_i": 61,
+			"catalog_n": "第六十章 挺进安哥拉"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf58"
+			},
+			"catalog_i": 63,
+			"catalog_n": "第六十二章 我要石油！石油！"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf59"
+			},
+			"catalog_i": 65,
+			"catalog_n": "第六十四章 安盟的钻石"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf5a"
+			},
+			"catalog_i": 66,
+			"catalog_n": "第六十五章 安特卫普的钻石乐园"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf5b"
+			},
+			"catalog_i": 67,
+			"catalog_n": "第六十六章 洛克菲勒与石油"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf5c"
+			},
+			"catalog_i": 68,
+			"catalog_n": "第六十七章 安哥拉石油俱乐部"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf5d"
+			},
+			"catalog_i": 69,
+			"catalog_n": "第六十八章 纷乱多事"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf5e"
+			},
+			"catalog_i": 70,
+			"catalog_n": "第六十九章 不安的新年"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf5f"
+			},
+			"catalog_i": 64,
+			"catalog_n": "第六十三章 90个油田的合同"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf60"
+			},
+			"catalog_i": 62,
+			"catalog_n": "第六十一章 初到安哥拉"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf61"
+			},
+			"catalog_i": 71,
+			"catalog_n": "第七十章 美国股市崩盘（上）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf62"
+			},
+			"catalog_i": 72,
+			"catalog_n": "第七十一章 美国股市崩盘（下）"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf63"
+			},
+			"catalog_i": 74,
+			"catalog_n": "第七十三章 两场战争的结束"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf64"
+			},
+			"catalog_i": 75,
+			"catalog_n": "第七十四章 新总统乔治-布什"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf65"
+			},
+			"catalog_i": 76,
+			"catalog_n": "第七十五章 阿富汗内战"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf66"
+			},
+			"catalog_i": 77,
+			"catalog_n": "第七十六章 鲍里斯-叶利钦"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf67"
+			},
+			"catalog_i": 78,
+			"catalog_n": "第七十七章 伊拉克入侵科威特"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf68"
+			},
+			"catalog_i": 79,
+			"catalog_n": "第七十七章 苏联的解体"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf69"
+			},
+			"catalog_i": 73,
+			"catalog_n": "第七十二章 120枚东风-3导弹"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf6a"
+			},
+			"catalog_i": 80,
+			"catalog_n": "第七十九章 俄罗斯的石油"
+		},
+		{
+			"_id": {
+				"$oid": "5576e2a80c13d0975859cf6b"
+			},
+			"catalog_i": 81,
+			"catalog_n": "第八十章 军火之王（结局）"
+		}
+	],
+	"kuaidu_id": "1006639",
+	"mysql_id": "14958"
+}
